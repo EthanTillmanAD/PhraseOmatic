@@ -12,9 +12,7 @@ public class PhraseOMatic {
         int listOne = wordListOne.length;
         int listTwo = wordListTwo.length;
         int listThree = wordListThree.length;
-        System.out.println(listOne);
-        System.out.println(listTwo);
-        System.out.println(listThree);
+
 
         int rand1 = (int) (Math.random() * listOne);
         int rand2 = (int) (Math.random() * listTwo);
